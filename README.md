@@ -23,11 +23,11 @@
 
 <div align="center">
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=vishwanathan24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=vishwanathan24&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
 
-<img width="400" src="https://streak-stats.demolab.com/?user=vishwanathan24&theme=tokyonight&hide_border=true&background=0D1117" />
+<img width="400" src="https://streak-stats.demolab.com/?user=vishwanathan24&theme=dark&hide_border=true&background=0D1117" />
 
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwanathan24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwanathan24&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
 
 </div>
 
