@@ -37,7 +37,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,github,vscode" />
 
 </div>
 
