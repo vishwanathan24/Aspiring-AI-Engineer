@@ -43,6 +43,8 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=vishwanathan24&color=blue)
+
 ## 🚀 Projects
 
 - 🔹 [AI Chatbot](https://github.com/vishwanathan24/ai-chatbot)
