@@ -1,0 +1,11 @@
+faster-whisper
+transformers
+torch
+torchaudio
+sentencepiece
+scikit-learn
+numpy
+pandas
+librosa
+soundfile
+pydub

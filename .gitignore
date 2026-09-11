@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Model files
+models/
+
+# Audio files
+input/*.mp3
+input/*.wav
+input/*.m4a
+input/*.flac
+input/*.ogg
+
+# Generated output
+output/
+
+# Environment
+.env
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

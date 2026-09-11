@@ -1,59 +1,47 @@
-<div align="center">
+# TechPanda Student Sentiment Analysis
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=VISHWANATHAN%20R&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+AI-powered student audio sentiment and emotion analysis system.
 
-<h1>🤖 AI ENGINEER</h1>
+## Pipeline
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=25&center=true&vCenter=true&width=500&lines=AI+Engineer;Machine+Learning+Developer;Python+Enthusiast;Building+Intelligent+Systems" />
+Audio
+↓
+Audio preprocessing
+↓
+Whisper transcription
+↓
+Speaker identification
+↓
+Student extraction
+↓
+Sentiment analysis
+↓
+Emotion analysis
+↓
+Report generation
 
-</div>
+## Technologies
 
----
+- Python
+- Faster-Whisper
+- Hugging Face Transformers
+- PyTorch
+- FFmpeg
+- NumPy
+- Pandas
 
-## 🚀 About Me
+## Supported Audio
 
-- 🔭 Working on AI & Machine Learning Projects  
-- 🧠 Learning Deep Learning & LLMs  
-- 💡 Passionate about building intelligent systems  
-- ⚡ Goal: Become top AI Engineer  
+- MP3
+- WAV
+- M4A
+- FLAC
+- OGG
+- AAC
 
----
+## Run
 
-## 📊 GitHub Stats
+Activate the virtual environment:
 
-<div align="center">
-
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=vishwanathan24&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
-
-<img width="400" src="https://streak-stats.demolab.com/?user=vishwanathan24&theme=dark&hide_border=true&background=0D1117" />
-
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwanathan24&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
-
-</div>
-
----
-
-## 🧠 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,github,vscode" />
-
-</div>
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=vishwanathan24&color=blue)
-
-## 🚀 Projects
-
-- 🔹 [AI Chatbot](https://github.com/vishwanathan24/ai-chatbot)
-- 🔹 [Voice to Text AI](https://github.com/vishwanathan24/voice-to-text-ai)
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:2c5364&height=120&section=footer"/>
-
-</div>
+```powershell
+.\.venv\Scripts\Activate.ps1
